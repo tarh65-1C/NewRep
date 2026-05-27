@@ -42,4 +42,5 @@
   <commonModules>CommonModule.ОбщийМодульТестКлиентСервер</commonModules>
   <constants>Constant.Новая</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ЗаказПокупателя</documents>
 </mdclass:Configuration>
