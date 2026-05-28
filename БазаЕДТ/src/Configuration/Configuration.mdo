@@ -43,4 +43,5 @@
   <constants>Constant.Новая</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
+  <informationRegisters>InformationRegister.ЩтрихКода</informationRegisters>
 </mdclass:Configuration>
